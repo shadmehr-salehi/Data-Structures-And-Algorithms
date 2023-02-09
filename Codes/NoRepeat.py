@@ -1,5 +1,5 @@
 # we want to remove same substrings in a list of chars
-# EG : abbaca : abbaca -> aaca -> ca 
+# EG : abbaca : abbaca -> aaca -> ca  
 
 # ---- A Drunk Man Will Find His Way Home but a Drunk Bird May Get Lost Forever =) ----
 
