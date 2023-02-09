@@ -34,7 +34,6 @@ def printList(array):
     print()
 
 
-# Driver program
 if __name__ == '__main__':
     array = [6, 5, 12, 10, 9, 1]
 
