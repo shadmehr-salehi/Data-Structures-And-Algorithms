@@ -22,5 +22,5 @@ shellSort(arr)
  
 print ("\nArray after sorting:")
 for i in range(n):
-    print(arr[i]),
+    print(arr[i])
  
