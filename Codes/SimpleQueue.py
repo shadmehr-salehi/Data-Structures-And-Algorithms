@@ -13,3 +13,4 @@ for i in range(n):
         print(q[0])
         q = q[1:n]
         l = l-1    
+ 
