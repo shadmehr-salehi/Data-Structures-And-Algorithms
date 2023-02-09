@@ -17,12 +17,7 @@ def shellSort(arr):
  
 # Driver code to test above
 arr = [ 12, 34, 54, 2, 3]
- 
-n = len(arr)
-print ("Array before sorting:")
-for i in range(n):
-    print(arr[i]),
- 
+n = len(arr) 
 shellSort(arr)
  
 print ("\nArray after sorting:")
