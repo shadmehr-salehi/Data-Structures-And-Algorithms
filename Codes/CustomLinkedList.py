@@ -103,7 +103,7 @@ if __name__ == '__main__':
     llist.insert_at_tail(3)
     llist.insert_at_tail(4)
     llist.insert_at_tail(5)
-    llist.reversee()
+    llist.reverse()
     llist.print()
 
     # print(llist.head)
